@@ -8,8 +8,9 @@ import pyautogui
 import cv2
 import time
 
-
+#Creating a openCv object
 video = cv2.VideoCapture(0)
+#using haarcascade_eye.xml
 eye_cascade = cv2.CascadeClassifier("haarcascade_eye.xml")
 
 
