@@ -6,7 +6,7 @@
 
 
 
-*```bash
+```bash
 $  pip install cv2
 ```
 ```bash
