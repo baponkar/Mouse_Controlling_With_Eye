@@ -1,14 +1,18 @@
 # Mouse Controll With Eye
 
-* Version -v-1.0.0
-* License- GNU GPL V3.O
+![Python3](https://img.shields.io/badge/Python-3-green)
+![OpenCV2](https://img.shields.io/badge/Open-CV2-yellow)
+![Pyautogui](https://img.shields.io/badge/Pyauto-Gui-yellowgreen)
+
+* :octocat: Version -v-1.0.0
+* :octocat: License- GNU GPL V3.O
 
 ## DESCRIPTION:
-* This Python Script helps to move a mouse cursor by using eye.We need two python library openCV and pyautogui.
+* This Python Script helps to move a mouse cursor by using eye.
 * This script just move the cursor not to click by eye blink. 
 * You can help me to add that feature.
 
-* Module required [openCV](https://pypi.org/project/opencv-python/) and [pyautogui](https://pypi.org/project/PyAutoGUI/)
+* The following Python library Modules required [openCV](https://pypi.org/project/opencv-python/) and [pyautogui](https://pypi.org/project/PyAutoGUI/) :
 * You can download those by this pip commands.
 
 ```
@@ -19,3 +23,5 @@ $  pip install pyautogui
 ```
 
 See this [Youtube](https://youtu.be/S0y8dxwbJzY) link to see the demo Video.
+
+* I will appreciate :+1: any kind suggestions and help.
