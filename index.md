@@ -25,4 +25,4 @@ $  pip install pyautogui
 
 See this [Youtube](https://youtu.be/S0y8dxwbJzY) link to see the demo Video.
 
-* I will appreciate :+1: any kind suggestions and help.
+* I will appreciate 👍 any kind suggestions and help.
