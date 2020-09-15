@@ -4,8 +4,8 @@
 ![OpenCV2](https://img.shields.io/badge/Open-CV2-yellow)
 ![Pyautogui](https://img.shields.io/badge/Pyauto-Gui-yellowgreen)
 
-* :octocat: Version -v-1.0.0
-* :octocat: License- GNU GPL V3.O
+* 😺 Version -v-1.0.0
+* 😸 License- GNU GPL V3.O
 
 ## DESCRIPTION:
 * This Python Script helps to move a mouse cursor by using eye.
