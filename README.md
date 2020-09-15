@@ -8,10 +8,10 @@
 * :octocat: License- GNU GPL V3.O
 
 ## DESCRIPTION:
-* This Python Script helps to move a mouse cursor by using eye.
-* This script just move the cursor not to click by eye blink. 
+* This Python🐍 Script helps to move a mouse cursor by using eye.
+* This script just move the cursor➡️ not to click by eye👁 blink. 
 * You can help me to add that feature.
-* To access the feature you must have a webcam in your computer.
+* To access the feature you must have a webcam🎦 in your computer💻.
 
 * The following Python library Modules required [openCV](https://pypi.org/project/opencv-python/) and [pyautogui](https://pypi.org/project/PyAutoGUI/) :
 * You can download those by this pip commands.
