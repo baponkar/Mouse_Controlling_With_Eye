@@ -3,6 +3,7 @@
 ![Python3](https://img.shields.io/badge/Python-3-green)
 ![OpenCV2](https://img.shields.io/badge/Open-CV2-yellow)
 ![Pyautogui](https://img.shields.io/badge/Pyauto-Gui-yellowgreen)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/baponkar)
 
 * :octocat: Version -v-1.0.0
 * :octocat: License- GNU GPL V3.O
