@@ -3,7 +3,7 @@
 ![Python3](https://img.shields.io/badge/Python-3-green)
 ![OpenCV2](https://img.shields.io/badge/Open-CV2-yellow)
 ![Pyautogui](https://img.shields.io/badge/Pyauto-Gui-yellowgreen)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](<div id="smart-button-container">
+<div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
       </div>
@@ -38,7 +38,7 @@
       }).render('#paypal-button-container');
     }
     initPayPalButton();
-  </script>)
+  </script>
 
 * :octocat: Version -v-1.0.0
 * :octocat: License- GNU GPL V3.O
