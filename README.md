@@ -27,7 +27,7 @@ $ pip install opencv-python
 #To create virtual envirionment
 $ python -m venv python_dev
 $ source python_dev/bin/activate #for linux 
-$ .\address_of_activate_file
+$ .\address_of_activate_file #for windows power shell
 #To install open cv2 into virtual envirionment
 $ pip install opencv-contrib-python
 ```
