@@ -17,12 +17,15 @@
 * You can download those by this pip commands.
 
 ```
+#first try this
 $  pip install cv2
+#if not works then try this
+$ pip install opencv-python
 ```
 
 ```
 #To install open cv2 into virtual envirionment
-pip install opencv-contrib-python
+$ pip install opencv-contrib-python
 ```
 
 ```
