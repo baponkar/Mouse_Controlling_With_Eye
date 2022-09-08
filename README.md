@@ -19,6 +19,12 @@
 ```
 $  pip install cv2
 ```
+
+```
+#To install open cv2 into virtual envirionment
+pip install opencv-contrib-python
+```
+
 ```
 $  pip install pyautogui
 ```
