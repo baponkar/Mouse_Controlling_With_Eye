@@ -18,6 +18,8 @@
 
 ```
 #first try this
+$ pip install requirement.txt
+# If not works then install manually
 $  pip install cv2
 #if not works then try this
 $ pip install opencv-python
