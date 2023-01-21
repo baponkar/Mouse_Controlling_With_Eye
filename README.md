@@ -16,6 +16,7 @@
 * The following Python library Modules required [openCV](https://pypi.org/project/opencv-python/) and [pyautogui](https://pypi.org/project/PyAutoGUI/) :
 * You can download those by this pip commands.
 
+---
 
 ## Run this script
 ```
@@ -41,9 +42,7 @@ $ python3 mouse_control_by_eye.py
 $ q #To break from loop
 ```
 
-```
-
-```
+---
 
 See this ▶️Youtube [![Screenshot](Screenshot_20200928-000225_YouTube.jpg)](https://youtu.be/S0y8dxwbJzY)  link to see the demo Video.
 
