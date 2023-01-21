@@ -1,12 +1,17 @@
 """
 Description :This Script is controlling A mouse cursor by eyes
 Making Date : 01/03/2019
+Last Update Date : 21/01/2023
 Writer : Bapon Kar
 """
 
 import pyautogui
 import cv2
 import time
+
+#When I have tried into my windows machine then it was ask to do
+#But in Linux machine it will works fine without this false selection
+pyautogui.FAILSAFE = False
 
 #Creating a openCv object
 video = cv2.VideoCapture(0)
