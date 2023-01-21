@@ -17,17 +17,6 @@
 * You can download those by this pip commands.
 
 
-## Download the requirement
-```
-#first try this
-$ pip install requirement.txt
-
-# If download not works then install manually
-$  pip install cv2
-#if not works then try this
-$ pip install opencv-python
-$ pip install pyautogui
-```
 ## Run this script
 ```
 #To create virtual envirionment
@@ -36,6 +25,17 @@ $ python -m venv python_dev
 #To activate virtual envirionment
 $ source python_dev/bin/activate #for linux 
 $ .\venv\Scripts\activate #for windows power shell
+
+## Download the requirement
+#first try this
+$ pip install requirement.txt
+
+# If download not works then install manually
+$  pip install cv2
+#if not works then try this
+$ pip install opencv-python
+$ pip install pyautogui
+
 #To run python script
 $ python3 mouse_control_by_eye.py
 $ q #To break from loop
