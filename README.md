@@ -16,6 +16,8 @@
 * The following Python library Modules required [openCV](https://pypi.org/project/opencv-python/) and [pyautogui](https://pypi.org/project/PyAutoGUI/) :
 * You can download those by this pip commands.
 
+
+## Download the requirement
 ```
 #first try this
 $ pip install requirement.txt
@@ -26,7 +28,7 @@ $  pip install cv2
 $ pip install opencv-python
 $ pip install pyautogui
 ```
-
+## Run this script
 ```
 #To create virtual envirionment
 $ python -m venv python_dev
@@ -43,7 +45,7 @@ $ q #To break from loop
 
 ```
 
-See this [▶️Youtube](https://youtu.be/S0y8dxwbJzY) ![Screenshot](Screenshot_20200928-000225_YouTube.jpg)  link to see the demo Video.
+See this ▶️Youtube [![Screenshot](Screenshot_20200928-000225_YouTube.jpg)](https://youtu.be/S0y8dxwbJzY)  link to see the demo Video.
 
 * Credits : [Shameem Hameed](http://umich.edu/~shameem)
 
