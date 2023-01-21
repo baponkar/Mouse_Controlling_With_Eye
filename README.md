@@ -2,7 +2,7 @@
 
 ![Python3](https://img.shields.io/badge/Python-3-green)
 ![OpenCV2](https://img.shields.io/badge/Open-CV2-yellow)
-![Pyautogui](https://img.shields.io/badge/Pyauto-Gui-yellowgreen)
+[![Pyautogui](https://img.shields.io/badge/Pyauto-Gui-yellowgreen)](https://pyautogui.readthedocs.io/en/latest/#:~:text=PyAutoGUI%20lets%20your%20Python%20scripts%20control%20the%20mouse,Linux%2C%20and%20runs%20on%20Python%202%20and%203.)
 
 * :octocat: Version -v-1.0.0
 * :octocat: License- GNU GPL V3.O
