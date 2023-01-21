@@ -19,23 +19,25 @@
 ```
 #first try this
 $ pip install requirement.txt
-# If not works then install manually
+
+# If download not works then install manually
 $  pip install cv2
 #if not works then try this
 $ pip install opencv-python
+$ pip install pyautogui
 ```
 
 ```
 #To create virtual envirionment
 $ python -m venv python_dev
+
+#To activate virtual envirionment
 $ source python_dev/bin/activate #for linux 
-$ .\address_of_activate_file #for windows power shell
-#To install open cv2 into virtual envirionment
-$ pip install opencv-contrib-python
+$ .\venv\Scripts\activate #for windows power shell
 ```
 
 ```
-$  pip install pyautogui
+
 ```
 
 See this [▶️Youtube](https://youtu.be/S0y8dxwbJzY) ![Screenshot](Screenshot_20200928-000225_YouTube.jpg)  link to see the demo Video.
