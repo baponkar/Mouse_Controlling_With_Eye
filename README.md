@@ -36,6 +36,7 @@ $ source python_dev/bin/activate #for linux
 $ .\venv\Scripts\activate #for windows power shell
 #To run python script
 $ python3 mouse_control_by_eye.py
+$ q #To break from loop
 ```
 
 ```
