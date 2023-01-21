@@ -34,7 +34,8 @@ $ python -m venv python_dev
 #To activate virtual envirionment
 $ source python_dev/bin/activate #for linux 
 $ .\venv\Scripts\activate #for windows power shell
-$python3 mouse_control_by_eye.py
+#To run python script
+$ python3 mouse_control_by_eye.py
 ```
 
 ```
