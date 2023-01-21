@@ -44,7 +44,7 @@ $ q #To break from loop
 
 ---
 
-See this ▶️Youtube [![Screenshot](Screenshot_20200928-000225_YouTube.jpg)](https://youtu.be/S0y8dxwbJzY)  link to see the demo Video.
+See this [▶️Youtube](https://youtu.be/S0y8dxwbJzY) [![Screenshot](Screenshot_20200928-000225_YouTube.jpg)](https://youtu.be/S0y8dxwbJzY)  link to see the demo Video.
 
 * Credits : [Shameem Hameed](http://umich.edu/~shameem)
 
