@@ -29,7 +29,7 @@ $ .\venv\Scripts\activate #for windows power shell
 
 ## Download the requirement
 #first try this
-$ pip install requirement.txt
+$ pip install -r requirement.txt
 
 # If download not works then install manually
 $  pip install cv2
